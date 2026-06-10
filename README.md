@@ -1,2 +1,2 @@
-# Curriculum-Vitae-
+# Curriculum-Vitae
 Presentación hoja de vida
